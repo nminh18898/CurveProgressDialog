@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CurveProgressBar">
+        <attr name="progressColor" format="color" />
+        <attr name="progressBackgroundColor" format="color" />
+        <attr name="textColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="RatioImageView">
+        <attr name="ratio" format="float"></attr>
+        <attr name="autoScaleHeight" format="boolean"></attr>
+        <attr name="autoScaleWidth" format="boolean"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="CurveSeekBar">
+        <attr name="thumb" format="reference"></attr>
+    </declare-styleable>
+</resources>
